@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Diagnostics Immobiliers - Toulouse"
+subtitle: La société Diag OCcimmo est spécialisée dans la réalisation des diagnostics immobiliers obligatoires.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
