@@ -1,0 +1,31 @@
+.circle {
+  width: 6em;
+  height: 6em;
+  border-radius: 50%;
+  border: solid 3px var(--primary);
+  color: var(--primary);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.circle:hover {
+  background-color: var(--primary);
+  color: white;
+}
+
+.fa-circle {
+  color: var(--primary);
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.navbar {
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  z-index: 100;
+}
