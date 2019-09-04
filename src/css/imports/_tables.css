@@ -5,20 +5,18 @@ table
 }
 
 td, th {
-  padding: $spacing-medium;
+  padding: var(--spacing-medium);
 }
 
-th:not(:first-child), td:not(:first-child) {
-  text-align: right;
+td {
+  font-size: var(--font-size);
 }
 
 th {
-  color: var(--grey-3);
+  color: var(--white);
   font-weight: 700;
   white-space: nowrap;
-   {
-    white-space: wrap;
-  }
+  background-color: var(--primary);
 }
 
 tr th {
