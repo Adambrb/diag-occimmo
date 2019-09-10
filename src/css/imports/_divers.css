@@ -29,3 +29,20 @@ h3 {
   width: 100%; /* Full width */
   z-index: 100;
 }
+
+.titre {
+  color: var(--primary);
+  text-shadow: 2px 1px var(--highlight);
+}
+
+.subtitle {
+  color: var(--grey-4);
+  text-shadow: 2px 1px var(--grey-1);
+}
+
+.carte {
+  background-color: var(--grey-1);
+  border-radius: var(--border-radius);
+  border-bottom: solid 4px var(--primary);
+  box-shadow: 3px;
+}

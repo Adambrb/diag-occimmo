@@ -1,7 +1,7 @@
 ---
 title: "Diagnostics Immobiliers - Toulouse et ses environs"
 subtitle: La société Diag OCcimmo est spécialisée dans la réalisation des diagnostics immobiliers obligatoires.
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.png
 blurb:
     heading: Diag OCcimmo
     text: "Diag OCcimmo est une société spécialisée dans la réalisation des diagnostics immobiliers obligatoires. Lorsque que vous vendez ou louez un bien immobilier quel qu'il soit, il est nécessaire de réaliser un certain nombre de diagnostics."
@@ -14,7 +14,7 @@ products:
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
-    heading: Our values
+    heading: Zone d'intervention
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
 
