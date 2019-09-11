@@ -32,12 +32,12 @@ h3 {
 
 .titre {
   color: var(--primary);
-  text-shadow: 2px 1px var(--highlight);
+  text-shadow: 2px 1px 3px var(--highlight);
 }
 
 .subtitle {
-  color: var(--grey-4);
-  text-shadow: 2px 1px var(--grey-1);
+  color: var(--grey-3);
+  text-shadow: 2px 1px 2px var(--grey-1);
 }
 
 .carte {
@@ -45,4 +45,5 @@ h3 {
   border-radius: var(--border-radius);
   border-bottom: solid 4px var(--primary);
   box-shadow: 3px;
+  color: var(--grey-3);
 }
