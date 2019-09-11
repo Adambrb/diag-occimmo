@@ -44,6 +44,12 @@ h3 {
   background-color: var(--grey-1);
   border-radius: var(--border-radius);
   border-bottom: solid 4px var(--primary);
-  box-shadow: 3px;
   color: var(--grey-3);
+  box-shadow: 1px 1px 4px var(--grey-3);
+}
+
+.shadow-contact {
+  box-shadow: 2px 2px 5px var(--grey-2);
+  border-radius: var(--border-radius);
+  border-top: solid 4px var(--primary);
 }
