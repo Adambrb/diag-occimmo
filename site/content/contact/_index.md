@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 logo: "/img/logo.svg"
+imageUrl: /img/about-jumbotron.jpg
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
