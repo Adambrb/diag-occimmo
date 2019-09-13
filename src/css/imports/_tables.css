@@ -2,10 +2,12 @@ table
 {
   border-radius: var(--border-radius);
   overflow: hidden;
+  box-shadow: 2px 2px 6px var(--shadow);
 }
 
 td, th {
   padding: var(--spacing-medium);
+  border: solid 1px var(--highlight);
 }
 
 td {

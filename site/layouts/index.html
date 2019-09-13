@@ -2,12 +2,21 @@
 
 {{ partial "jumbotron-home" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+<div class="flex largeur center">
+  <div class="w-70">
+    {{ partial "short-text" .Params.blurb}}
 
-{{ partial "services" }}
+    {{ partial "services" }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Contactez-nous" "buttonLink" "/contact") }}
+    {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Contactez-nous" "buttonLink" "/contact") }}
 
-{{ partial "blog" . }}
+  </div>
+  <div class="w-30">
+    {{ partial "card-menu"}}
+  </div>
+
+</div>
+
+
 
 {{ end }}

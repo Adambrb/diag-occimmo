@@ -1,15 +1,19 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "image" .Params.image "title" .Title) }}
 
-<div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between grey-3">
-        <p>lecture en {{ .ReadingTime }} minutes</p>
+<div class="flex largeur center">
+    <div class="mw6 center ph3 pv4 w-70-l">
+        <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+        <div class="flex justify-between grey-3">
+            <p>lecture en {{ .ReadingTime }} minutes</p>
+        </div>
+        <div class="cms mw6">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+            {{ .Content }}
+        </div>
     </div>
-    <div class="cms mw6">
-        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-        {{ .Content }}
+    <div class=" w-30-l">
+        {{ partial "card-menu"}}
     </div>
 </div>
 

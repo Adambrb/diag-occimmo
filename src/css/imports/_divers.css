@@ -43,8 +43,8 @@ h3 {
 .carte {
   background-color: var(--white);
   border-radius: var(--border-radius);
-  border-top: solid 4px var(--primary);
-  color: var(--grey-3);
+  border-top: solid 5px var(--primary);
+  color: var(--black);
   box-shadow: 1px 1px 6px var(--shadow);
   font-size: var(--spacing-medium)
 }
@@ -52,7 +52,7 @@ h3 {
 .shadow-contact {
   box-shadow: 2px 2px 6px var(--shadow);
   border-radius: var(--border-radius);
-  border-top: solid 4px var(--primary);
+  border-top: solid 5px var(--primary);
   margin-top: -10% !important;
 }
 
@@ -89,4 +89,8 @@ h3 {
 
 .marge-haut {
   margin-top: 55px;
+}
+
+.largeur {
+  width: 90%;
 }
