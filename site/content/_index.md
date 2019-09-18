@@ -4,7 +4,6 @@ subtitle: La société Diag OCcimmo est spécialisée dans la réalisation des d
 image: /img/home-jumbotron.png
 blurb:
     heading: Diag OCcimmo
-    text: "Diag OCcimmo est une société spécialisée dans la réalisation des diagnostics immobiliers obligatoires. Lorsque que vous vendez ou louez un bien immobilier quel qu'il soit, il est nécessaire de réaliser un certain nombre de diagnostics."
 intro:
     heading: "Les services que nous fournissons"
     text: "Les diagnostics sont réalisés par nos experts. Ils sont titulaires des certificats de compétences délivré par QUALIXPERT, organisme accrédité par le COFRAC (Comité français d'acréditation)."
@@ -18,3 +17,4 @@ values:
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
 
+    
