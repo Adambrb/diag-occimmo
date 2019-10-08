@@ -1,6 +1,7 @@
 ---
-title: 
-image:
+title: Diagnostic Gaz
+subtitle: A quoi sert le diagnostic gaz ?
+image: /img/diag-gaz.jpg
 ---
 
 DIAGNOSTIC GAZ

@@ -1,16 +1,23 @@
 ---
-title: Ceci est le titre pour les DPE
-image: /img/products-jumbotron.jpg
+title: Diagnostic Performance Energétique
+subtitle: A quoi sert le DPE ?
+image: /img/diag-dpe.jpg
 ---
 
-khsqdgfq SKLHGF FKSJF SKJF VSFHG  skfvg slhvj 
-<span style="color:red">dfgjkhgls lgfhslhf lsh fls lkj</span>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec felis laoreet, scelerisque mauris non, dapibus metus. Vestibulum hendrerit dapibus dolor. Fusce malesuada elit vitae imperdiet rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla sit amet consequat velit, vitae eleifend tellus. Duis nec laoreet augue, ac placerat justo. Curabitur iaculis, lectus eu pharetra vulputate, massa sem finibus elit, in accumsan libero metus volutpat metus. Quisque quis enim lorem. Nullam sed tristique purus. Curabitur luctus finibus lectus id tristique. Pellentesque posuere aliquet diam ac luctus. Fusce et malesuada nunc, ac lobortis orci.
+Le diagnostic de performance énergétique (DPE), obligatoire depuis juillet 2007, permet d’évaluer la consommation énergétique et de mesurer les émissions de gaz à effet de serre en fonction de sa performance thermique  d’un bien ou d’un bâtiment tertiaire concernant le chauffage, la climatisation et la production d’eau chaude sanitaire, dans le but de promouvoir l’économie d’énergie.
 
-Nunc rhoncus aliquet ex, a pulvinar orci vulputate sit amet. Fusce felis orci, accumsan ut elit quis, rhoncus fermentum dui. Donec malesuada dignissim felis, ac volutpat tortor tempus nec. Nunc elementum convallis nulla. Nam hendrerit ac massa sit amet egestas. Ut vitae accumsan sem. Donec vel massa eu tortor molestie rutrum in at augue. Nulla vitae diam et elit efficitur auctor ac ut lectus. Nunc id consectetur ante. Curabitur at molestie velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at erat quis magna porttitor finibus. Proin venenatis finibus augue at hendrerit. Mauris vehicula, nibh sit amet porta aliquet, magna nisl feugiat lacus, quis semper nisl dolor vel urna.
+Ce diagnostic comprend aussi des recommandations pour mieux connaître les mesures efficaces pour l’économie d’énergie en indiquant des conseils de bon usage et de bonne gestion du bâtiment et de ses équipements, ainsi que de préconisations de travaux d’aucune obligation..         
 
-Fusce aliquam, est et vehicula suscipit, ligula nunc dapibus nisi, vel dignissim nisi augue tempus eros. Nulla consequat efficitur ipsum, vitae suscipit massa dignissim a. Aliquam erat volutpat. Vestibulum commodo tortor vel consectetur volutpat. In sed enim finibus, rhoncus erat vel, pulvinar felis. Maecenas elementum gravida viverra. Praesent luctus mollis finibus. Sed faucibus, nisl quis posuere ultricies, est metus dapibus sapien, vel sollicitudin nibh odio a nunc. Morbi dictum purus cursus mi scelerisque, sit amet iaculis urna facilisis. In fringilla lacinia libero, id imperdiet enim imperdiet non. Nunc commodo in sem vel convallis. Nulla maximus finibus lectus, sed venenatis mauris ullamcorper eget.
+Le DPE doit être réalisé par un professionnel mentionné à l’article L.271-6 du Code Général de la Construction et de l’Habitation. 
+À partir du 1er janvier 2011, toute annonce immobilière de vente ou de location d’un appartement ou d’une maison devra contenir l’affichage de l’étiquette énergétique du diagnostic de performance énergétique (DPE) du bien. Cette mesure permettra aux futurs acquéreurs et locataires de mieux les renseigner pour choisir leur appartement ou leur maison dans les meilleures conditions.
 
-Nam et leo in sapien vehicula ultricies sit amet eu lacus. Quisque eget faucibus mauris. Nullam tellus leo, vulputate at magna id, accumsan hendrerit lectus. Donec sodales sed urna id tempus. Donec varius gravida aliquet. Sed nec tempor magna. Praesent et ligula ac ante vestibulum gravida in sit amet erat. Vestibulum id ultrices tellus. Vestibulum magna ligula, sodales sit amet tincidunt in, ullamcorper tempus ex. Pellentesque varius quis tortor et maximus.
+Quelle la durée de validité du DPE ?
+La durée de validité du diagnostic de performance énergétique est de 10 ans
 
-Integer mauris quam, tempor id ligula sit amet, fermentum ornare justo. Cras a fermentum ante. Sed sit amet eros malesuada, varius ipsum gravida, ultricies ipsum. Aliquam erat volutpat. Nunc nec sapien consequat, tincidunt mauris sed, suscipit diam. Nunc sapien mauris, varius bibendum tempus a, pulvinar nec metus. Mauris vestibulum dictum ligula, vitae accumsan urna hendrerit a. Duis vitae metus id mi dignissim feugiat eget vel mauris. Nunc aliquam sollicitudin dolor et cursus. Proin in libero auctor nibh malesuada elementum id vitae risus. Nullam luctus quam vel orci euismod congue. Mauris finibus finibus euismod. Praesent eu congue lorem, eu malesuada 
+Quels sont les bâtiments non soumis au DPE ?
+
+* les biens non chauffés,
+* les lieux de culte,
+* les monuments historiques,
+* les constructions individuelles dont la SHOB est inférieure à 50 m²
+* les bâtiments temporaires (utilisation de moins de 24 mois).

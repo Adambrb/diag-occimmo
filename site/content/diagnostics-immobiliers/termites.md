@@ -1,6 +1,7 @@
 ---
 title: Diagnostic Termites
-image: /img/products-jumbotron.jpg
+subtitle: Pourquoi faire un diagnostic termites ?
+image: /img/diag-termites.jpg
 ---
 
 DIAGNOSTIC TERMITES
