@@ -29,8 +29,13 @@
   }
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {
+  /*.dropdown:hover .dropbtn {
     background-color: var(--primary);
     color: var(--white);
     cursor: default;
+  }*/
+
+  .active {
+    background-color: var(--primary);
+    color: var(--white);
   }
