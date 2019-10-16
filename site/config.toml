@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "fr-FR"
 languageLang = "fr"
 title = "Diag OCcimmo"
+googleAnalytics = "UA-144353738-2"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

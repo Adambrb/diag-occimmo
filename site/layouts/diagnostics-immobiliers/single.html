@@ -3,7 +3,7 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 <div class="flex-ns largeur center">
-    <div class="mw6 center ph3 pv4 w-70-l">
+    <div class="mw6 center ph3 pv4 w-70-ns">
         <h3 class="lh-title b mb3">{{.Params.subtitle}}</h3>
         <div class="flex justify-between grey-3">
             <p>lecture en {{ .ReadingTime }} minutes</p>
@@ -12,7 +12,7 @@
             {{ .Content }}
         </div>
     </div>
-    <div class="center w-30-l">
+    <div class="center w-30-ns">
         {{ partial "card-menu"}}
     </div>
 </div>
