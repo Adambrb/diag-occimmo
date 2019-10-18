@@ -1,6 +1,6 @@
 ---
 title: "Diagnostics immobilliers"
-image: /img/about-jumbotron.jpg
+image: /img/blog-index.jpg
 values:
   - heading: "DPE et Éco-chèque"
     text: >
