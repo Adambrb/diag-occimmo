@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} -->
+
+<div class="flex-ns largeur center">
+    <div class="mw6 center ph3 pv4 w-70-ns">
+        <div class="cms mw6">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="center w-30-ns">
+        {{ partial "card-menu"}}
+    </div>
+</div>
+
+
+{{ end }}
