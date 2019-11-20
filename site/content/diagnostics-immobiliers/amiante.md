@@ -4,8 +4,8 @@ subtitle: A quoi sert le diagnostic amiante ?
 image: /img/diag-amiante.jpg
 ---
 
-Du fait de sa dangerosité pour la santé humaine, l’amiante a été interdite en France  par le décret n° 96-1133 du 24 décembre 1996. 
-Depuis, des mesures de préventions ont été instaurées en rendant ce diagnostic obligatoire qui permet de déterminer la présence de l’amiante dans tout immeuble bâti quel que soit leur usage (habitation,commerce) dont le permis de construire a été délivré avant le 1er juillet 1997 et ainsi d’en informer les futurs occupants et intervenants de travaux de sa présence et de ses risques.
+Du fait de sa dangerosité pour la santé humaine, l’amiante a été interdite en France par le décret n° 96-1133 du 24 décembre 1996. 
+Depuis des mesures de préventions ont été instaurées en rendant ce diagnostic obligatoire. Il permet de déterminer la présence d’amiante et ainsi d’informer les futurs occupants ou intervenants de travaux de sa présence et de ses risques. Il s'applique à tout immeuble bâti quel qu'en soit leur usage (habitation ou commerce) dont le permis de construire a été délivré avant le 1er juillet 1997.
 
 Le diagnostiqueur certifié de la société Diag OCcimmo réalise ce diagnostic à la demande du client. Sa fonction est de repérer la présence éventuelle d’amiante dans les matériaux, sa concentration et l’état de délitement des matériaux amiantés, il peut même en prélever des échantillons pour les faire analyser en laboratoire.
 

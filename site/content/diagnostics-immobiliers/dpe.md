@@ -4,7 +4,7 @@ subtitle: A quoi sert le DPE ?
 image: /img/diag-dpe.jpg
 ---
 
-Le diagnostic de performance énergétique (DPE), obligatoire depuis juillet 2007, permet d’évaluer la consommation énergétique et de mesurer les émissions de gaz à effet de serre en fonction de sa performance thermique  d’un bien ou d’un bâtiment tertiaire concernant le chauffage, la climatisation et la production d’eau chaude sanitaire, dans le but de promouvoir l’économie d’énergie.
+Le diagnostic de performance énergétique (DPE), obligatoire depuis juillet 2007, permet d’évaluer la consommation énergétique et de mesurer les émissions de gaz à effet de serre en fonction de sa performance thermique  d’un bien ou d’un bâtiment tertiaire. Il concerne le chauffage, la climatisation et la production d’eau chaude sanitaire, dans le but de promouvoir l’économie d’énergie.
 
 Ce diagnostic comprend aussi des recommandations pour mieux connaître les mesures efficaces pour l’économie d’énergie en indiquant des conseils de bon usage et de bonne gestion du bâtiment et de ses équipements, ainsi que de préconisations de travaux d’aucune obligation..         
 

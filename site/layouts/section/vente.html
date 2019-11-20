@@ -2,6 +2,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
+<div class="indent pt2">
+    {{ partial "breadcrumbs.html" . }}
+</div>
+
 <table class="mv4 center" style="width: 80%">
   <tr>
     <th>Diagnostics</th>

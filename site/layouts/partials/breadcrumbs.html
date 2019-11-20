@@ -1,0 +1,10 @@
+<div id="breadcrumbs" class="f6">
+  <a href="/" class="link">Accueil</a>
+  {{ range $element := (split .Permalink "/") }}
+  {{ $.Scratch.Add "path" $element }}
+      {{ if gt (len . ) 0 }}
+      › <a href='{{ $.Scratch.Get "path" }}' class="link">{{ humanize (replace . "posts" "blog") }}</a>
+      {{ $.Scratch.Add "path" "/" }}
+      {{ end }}
+  {{ end }}
+</div>

@@ -1,27 +1,12 @@
 {{ define "main" }}
 
 <div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('/img/loc.png')">
-  
+  <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3749.4159834939505!2d1.462304602530873!3d43.71698496640379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aea169ab64bb39%3A0x85994d171b373e0f!2s19%20Rue%20d&#39;Espagne%2C%2031140%20Pechbonnieu!5e0!3m2!1sfr!2sfr!4v1574283154059!5m2!1sfr!2sfr" width="100%" height="300" frameborder="0" style="border:0; z-index: -1;" allowfullscreen=""></iframe> -->
 </div>
 
 <div class="ph3 bg-off-white">
 	<div class="center mw7 pv3">
-
-		<!--<img src="{{ .Params.logo }}" alt="logo" class="db w4 center pv4">
-
-		{{ .Content }}
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>-->
-
 		{{ partial "contact-form" . }}
-
 	</div>
 </div>
 

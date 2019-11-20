@@ -13,11 +13,11 @@ Le diagnostiqueur vous renseignera sur la réglementation en vigueur et à votre
 
 Les diagnostics obligatoires sur la commune de **Verfeil** sont :
 
-* Le diagnostic loi Carrez
-* Le diagnostic performance énergétique
-* Le diagnostic amiante
-* Le diagnostic plomb 
-* Le diagnostic termites 
-* Le certificat d’état des risques naturels
-* Le diagnostic gaz
-* Le diagnostic électricité
+* <a href="/diagnostics-immobiliers/loi_carrez_boutin" class="link">Le diagnostic loi Carrez</a>
+* <a href="/diagnostics-immobiliers/dpe" class="link">Le diagnostic performance énergétique</a>
+* <a href="/diagnostics-immobiliers/amiante" class="link">Le diagnostic amiante</a>
+* <a href="/diagnostics-immobiliers/plomb" class="link">Le diagnostic plomb </a>
+* <a href="/diagnostics-immobiliers/termites" class="link">Le diagnostic termites </a>
+* <a href="/diagnostics-immobiliers/" class="link">Le certificat d’état des risques naturels</a>
+* <a href="/diagnostics-immobiliers/gaz" class="link">Le diagnostic gaz</a>
+* <a href="/diagnostics-immobiliers/electricite" class="link">Le diagnostic électricité</a>
