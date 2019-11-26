@@ -27,7 +27,7 @@ h3 {
 
 .titre {
   color: var(--primary);
-  text-shadow: 2px 1px 3px var(--shadow);
+  text-shadow: 1px 1px 2px var(--shadow-text); 
 }
 
 .subtitle {
@@ -79,6 +79,10 @@ h3 {
       padding: 0;
     }
   }
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px var(--shadow-text); 
 }
 
 .marge-haut {

@@ -10,7 +10,8 @@
 	--grey-3: rgba(89, 87, 86, 1);
 	--grey-4: rgba(66, 64, 64, 1);
 	--black: rgba(43, 37, 35, 1);
-	--shadow: rgba(0, 0, 0, 0.23);
+  --shadow: rgba(0, 0, 0, 0.23);
+  --shadow-text: rgba(0, 0, 0, 0.7); 
 	--comp: #733711;
 
 	/* Typography */
