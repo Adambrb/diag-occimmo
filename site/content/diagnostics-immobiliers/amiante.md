@@ -1,6 +1,6 @@
 ---
 title: Diagnostic Amiante
-subtitle: A quoi sert le diagnostic amiante ?
+subtitle: A quoi sert le diagnostic amiante et est-il obligatoire ?
 image: /img/diag-amiante.jpg
 ---
 
@@ -19,5 +19,5 @@ Pour mieux comprendre les 4 différents diagnostics amiante ou repérage amiante
 
 **Quelle est est la durée de validité pour le diagnostic amiante?**
 
-Si il a été constaté une présence d’amiante, le diagnostic amiante est valable 3 ans.
-Dans le cas d’absence d’amiante,la durée de validité est  illimitée.
+Si il a été constaté une présence d’amiante, avec support non dégradé, une évaluation périodique de l’état de conservation des matériaux et produits contenant de l’amiante est nécessaire (périodicité de 3 ans).
+Dans le cas d’absence d’amiante, la durée de validité est illimitée.

@@ -58,7 +58,7 @@ h3 {
       rgba(241, 114, 35, 0) 100%
     ),
     url("/img/home-jumbotron.png");
-  color: var(--white);
+  color: var(--black);
   border-collapse: collapse;
   border-bottom-left-radius: var(--border-radius);
   border-bottom-right-radius: var(--border-radius);
