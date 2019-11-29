@@ -1,7 +1,4 @@
 <head>
-	{{ template "_internal/google_analytics.html" . }}
-	{{ template "_internal/google_analytics_async.html" . }}
-
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
@@ -9,6 +6,7 @@
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
 
+  {{ if .Description }}<meta name="description" content="{{ .Description }}" />{{ end }}
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -37,4 +35,6 @@
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
+  {{ template "_internal/google_analytics.html" . }}
+	{{ template "_internal/google_analytics_async.html" . }}
 </head>

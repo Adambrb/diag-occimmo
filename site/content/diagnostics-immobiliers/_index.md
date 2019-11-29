@@ -1,5 +1,6 @@
 ---
 title: "Diagnostics immobiliers"
+description: Diagnostics immobiliers obligatoires lors de la vente ou de la location d'un logement.
 image: /img/diag-jumbotron.jpg
 values:
   - heading: "DPE et Eco-chèque"

@@ -1,6 +1,7 @@
 ---
 title: Diagnostic Amiante
 subtitle: A quoi sert le diagnostic amiante et est-il obligatoire ?
+description: Le diagnostic amiante est obligatoire et permet d'indiquer la présence ou l'absence d'amiante.
 image: /img/diag-amiante.jpg
 ---
 

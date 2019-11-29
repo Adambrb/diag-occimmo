@@ -1,6 +1,7 @@
 ---
 title: Diagnostic Gaz
 subtitle: A quoi sert le diagnostic gaz ?
+description: Le diagnostic gaz est obligatoire et permet de prévenir les risques liés à l'installation intérieur gaz.
 image: /img/diag-gaz.jpg
 ---
 

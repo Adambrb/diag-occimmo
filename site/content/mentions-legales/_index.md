@@ -1,5 +1,6 @@
 ---
 title: "Mentions légales"
+description: Mentions légales
 ---
 
 ### 1. Présentation du site

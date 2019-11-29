@@ -1,6 +1,7 @@
 ---
 title: Diagnostic Plomb
 subtitle: A quoi sert le diagnostic plomb ?
+description: Le diagnostic plomb est obligatoire et permet de prévenir les risques liés au plomb.
 image: /img/diag-plomb.jpg
 ---
 
@@ -21,5 +22,5 @@ En cas de concentrations inférieures au seuil réglementaire, il n’y a pas li
 
 En cas d’absence de plomb dans le logement, la validité du diagnostic plomb n’est pas limitée en durée.
 
-* Dans le cadre d’une vente, votre diagnostic a révélé une présence de plomb dont la concentration est supérieur ou égale à 1 mg/cm², votre CREP est **valable durant 1 an**.
-* Dans le cadre d’une location, votre diagnostic a révélé une présence de plomb dont la concentration est supérieur ou égale à 1 mg/cm², votre CREP est **valable durant 6 ans**.
+* Dans le cadre d’une vente, votre diagnostic a révélé une présence de plomb dont la concentration est supérieure ou égale à 1 mg/cm², votre CREP est **valable durant 1 an**.
+* Dans le cadre d’une location, votre diagnostic a révélé une présence de plomb dont la concentration est supérieure ou égale à 1 mg/cm², votre CREP est **valable durant 6 ans**.

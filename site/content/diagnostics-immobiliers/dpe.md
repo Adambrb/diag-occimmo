@@ -1,6 +1,7 @@
 ---
 title: Diagnostic Performance Energétique
 subtitle: A quoi sert le DPE ?
+description: Le diagnostic performance énergétique est obligatoire et permet dévaluer la consommation énergétique ainsi que mesurer les émissions de gaz à effet de serre.
 image: /img/diag-dpe.jpg
 ---
 

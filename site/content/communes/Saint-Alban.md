@@ -1,11 +1,12 @@
 ---
-
+title: Intervention diagnostics immobiliers commune de Saint-Alban
+description: Nous intervenons pour les diagnostics immobiliers obligatoires sur la commune de Saint-Alban.
 ---
 # Diagnostic obligatoire à Saint-Alban
 
-Sur la commune de **Saint-Alban**, quels sont les diagnostics immobiliers obligatoires à réaliser pour votre bien immobilier lors de la vente ou de la location ?
+Sur la commune de **Saint-Alban**, quels sont les diagnostics immobiliers obligatoires à réaliser pour votre bien immobilier lors d'une vente ou d'une location ?
 
-Avant chaque transaction immobilière, que l’on soit bailleur ou vendeur, vous devez faire établir un dossier de diagnostics techniques DDT par un diagnostiqueur certifié, couvert par une assurance responsabilité civile . Ce DDT doit être produit au cours de la signature d’un contrat de bail, d’une promesse de vente ou d’un acte de vente. et même dès la mise en vente ou location de l'immeuble DPE et être en cours de validité lors de l'établissement du contrat.
+Avant chaque transaction immobilière, que l’on soit bailleur ou vendeur, vous devez faire établir un dossier de diagnostics techniques DDT par un diagnostiqueur certifié, couvert par une assurance responsabilité civile. Ce DDT doit être produit au cours de la signature d’un contrat de bail, d’une promesse de vente ou d’un acte de vente. et même dès la mise en vente ou location de l'immeuble DPE et être en cours de validité lors de l'établissement du contrat.
 
 En contactant la société Diag OCcimmo, vous serez informés avec exactitude des diagnostics immobiliers obligatoires à réaliser de votre bien immobilier destiné à la vente ou à la location.
 

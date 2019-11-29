@@ -1,6 +1,7 @@
 ---
 title: Loi Carrez / Loi Boutin
 subtitle: Quelle est la différence entre la Loi Carrez et la Loi Boutin ?
+description: La loi Carrez correspond à la surface privative, alors que le loi Boutin correspond à la surface habitable d'un logement.
 image: /img/diag-carrez-boutin.jpg
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Diagnostic Termites
 subtitle: Pourquoi faire un diagnostic termites ?
+description: Le diagnostic termites est obligatoire et permet d'indiquer la présence ou l'absence de termite dans un logement.
 image: /img/diag-termites.jpg
 ---
  

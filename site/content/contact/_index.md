@@ -1,18 +1,6 @@
 ---
 title: "Contact"
 logo: "/img/logo.svg"
+description: Contactez nous pour un devis pour vos diagnostics immobiliers obligatoires.
 imageUrl: /img/about-jumbotron.jpg
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
-
-Pour toute demande de renseignements ou suggestions sur notre site, n’hésitez pas à nous contacter, nous vous répondrons dans les plus brefs délais.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
