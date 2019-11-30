@@ -15,4 +15,4 @@ Voir : La prise en charges des frais des télétravailleurs.
 
 https://www.capital.fr/votre-carriere/teletravail-a-domicile-ou-en-telecentre-ce-qu-il-faut-savoir-avant-d-accepter-une-offre-1237912
 
-Pour votre diagnostic électrique n'hésitez pas à nous contacter.
+**Pour votre diagnostic électrique n'hésitez pas à nous contacter.**
