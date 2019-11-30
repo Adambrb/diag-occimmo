@@ -13,4 +13,4 @@ https://www.laregion.fr/ecochequelogement
 
 D'autres aides également peuvent-être apportées par divers organismes comme l'anah et se cumuler entre-elles.
 
-Pour votre DPE et conseils contactez-nous.
+**Pour votre DPE et conseils n'hésitez pas à nous contactez.**
