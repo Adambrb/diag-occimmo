@@ -1,18 +1,18 @@
 ---
-title: Intervention diagnostics immobiliers commune de Castelnau-d'Estrétefonds
-description: Nous intervenons pour les diagnostics immobiliers obligatoires sur la commune de Castelnau-d'Estrétefonds.
+title: Intervention diagnostics immobiliers commune de Castelnau-d'Estretéfonds
+description: Nous intervenons pour les diagnostics immobiliers obligatoires sur la commune de Castelnau-d'Estretéfonds.
 ---
-# Diagnostic obligatoire à Castelnau-d'Estrétefonds
+# Diagnostics immobiliers obligatoires à Castelnau-d'Estretéfonds
 
-Sur la commune de **Castelnau-d'Estrétefonds**, quels sont les diagnostics immobiliers obligatoires à réaliser pour votre bien immobilier lors d'une vente ou d'une location ?
+Sur la commune de **Castelnau-d'Estretéfonds**, quels sont les diagnostics immobiliers obligatoires à réaliser pour votre bien immobilier lors d'une vente ou d'une location ?
 
-Avant chaque transaction immobilière, que l’on soit bailleur ou vendeur, vous devez faire établir un dossier de diagnostics techniques DDT par un diagnostiqueur certifié, couvert par une assurance responsabilité civile. Ce DDT doit être produit au cours de la signature d’un contrat de bail, d’une promesse de vente ou d’un acte de vente. et même dès la mise en vente ou location de l'immeuble DPE et être en cours de validité lors de l'établissement du contrat.
+Avant chaque transaction immobilière, que l’on soit bailleur ou vendeur, vous devez faire établir un dossier de diagnostics techniques DDT par un diagnostiqueur certifié, couvert par une assurance responsabilité civile. Ce DDT doit être produit au cours de la signature d’un contrat de bail, d’une promesse de vente ou d’un acte de vente. Et ce même dès la mise en vente ou location de l'immeuble par la production d'un DPE en cours de validité.
 
 En contactant la société Diag OCcimmo, vous serez informés avec exactitude des diagnostics immobiliers obligatoires à réaliser de votre bien immobilier destiné à la vente ou à la location.
 
 Le diagnostiqueur vous renseignera sur la réglementation en vigueur et à votre demande, établira un devis.
 
-Les diagnostics obligatoires sur la commune de **Castelnau-d'Estrétefonds** sont :
+Les diagnostics obligatoires sur la commune de **Castelnau-d'Estretéfonds** sont :
 
 * <a href="/diagnostics-immobiliers/loi_carrez_boutin" class="link">Le diagnostic loi Carrez</a>
 * <a href="/diagnostics-immobiliers/dpe" class="link">Le diagnostic performance énergétique</a>
