@@ -1,5 +1,5 @@
 ---
-title: Eco-chèque logement
+title: Le Diagnostic de Performance Énergétique pour l'éco-chèque logement.
 date: 2019-11-30T10:02:51.840Z
 description: >-
   Nous réalisons le diagnostic de performance énergétique (DPE) afférent à
