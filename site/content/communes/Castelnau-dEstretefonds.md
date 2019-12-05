@@ -1,10 +1,10 @@
 ---
-title: Intervention diagnostics immobiliers commune de Castelnau-d'Estretéfonds
-description: Nous intervenons pour les diagnostics immobiliers obligatoires sur la commune de Castelnau-d'Estretéfonds.
+title: Intervention diagnostics immobiliers commune de Castelnau-dEstretefonds
+description: Nous intervenons pour les diagnostics immobiliers obligatoires sur la commune de Castelnau-dEstretefonds.
 ---
-# Diagnostics immobiliers obligatoires à Castelnau-d'Estretéfonds
+# Diagnostics immobiliers obligatoires à Castelnau-dEstretefonds
 
-Sur la commune de **Castelnau-d'Estretéfonds**, quels sont les diagnostics immobiliers obligatoires à réaliser pour votre bien immobilier lors d'une vente ou d'une location ?
+Sur la commune de **Castelnau-dEstretefonds**, quels sont les diagnostics immobiliers obligatoires à réaliser pour votre bien immobilier lors d'une vente ou d'une location ?
 
 Avant chaque transaction immobilière, que l’on soit bailleur ou vendeur, vous devez faire établir un dossier de diagnostics techniques DDT par un diagnostiqueur certifié, couvert par une assurance responsabilité civile. Ce DDT doit être produit au cours de la signature d’un contrat de bail, d’une promesse de vente ou d’un acte de vente. Et ce même dès la mise en vente ou location de l'immeuble par la production d'un DPE en cours de validité.
 
@@ -12,9 +12,9 @@ En contactant la société Diag OCcimmo, vous serez informés avec exactitude de
 
 Le diagnostiqueur vous renseignera sur la réglementation en vigueur et à votre demande, établira un devis.
 
-Les diagnostics obligatoires sur la commune de **Castelnau-d'Estretéfonds** sont :
+Les diagnostics obligatoires sur la commune de **Castelnau-dEstretefonds** sont :
 
-* <a href="/diagnostics-immobiliers/loi_carrez_boutin" class="link">Le diagnostic loi Carrez</a>
+* <a href="/diagnostics-immobiliers/loi-carrez-boutin" class="link">Le diagnostic loi Carrez</a>
 * <a href="/diagnostics-immobiliers/dpe" class="link">Le diagnostic performance énergétique</a>
 * <a href="/diagnostics-immobiliers/amiante" class="link">Le diagnostic amiante</a>
 * <a href="/diagnostics-immobiliers/plomb" class="link">Le diagnostic plomb </a>

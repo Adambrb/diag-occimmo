@@ -19,7 +19,7 @@ set ext=.md
     echo.
     echo Les diagnostics obligatoires sur la commune de **%%a** sont :
     echo.
-    echo * ^<a href="/diagnostics-immobiliers/loi_carrez_boutin" class="link"^>Le diagnostic loi Carrez^<^/a^>
+    echo * ^<a href="/diagnostics-immobiliers/loi-carrez-boutin" class="link"^>Le diagnostic loi Carrez^<^/a^>
     echo * ^<a href="/diagnostics-immobiliers/dpe" class="link"^>Le diagnostic performance énergétique^<^/a^>
     echo * ^<a href="/diagnostics-immobiliers/amiante" class="link"^>Le diagnostic amiante^<^/a^>
     echo * ^<a href="/diagnostics-immobiliers/plomb" class="link"^>Le diagnostic plomb ^<^/a^>

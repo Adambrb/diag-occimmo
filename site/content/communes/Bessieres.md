@@ -14,7 +14,7 @@ Le diagnostiqueur vous renseignera sur la réglementation en vigueur et à votre
 
 Les diagnostics obligatoires sur la commune de **Bessieres** sont :
 
-* <a href="/diagnostics-immobiliers/loi_carrez_boutin" class="link">Le diagnostic loi Carrez</a>
+* <a href="/diagnostics-immobiliers/loi-carrez-boutin" class="link">Le diagnostic loi Carrez</a>
 * <a href="/diagnostics-immobiliers/dpe" class="link">Le diagnostic performance énergétique</a>
 * <a href="/diagnostics-immobiliers/amiante" class="link">Le diagnostic amiante</a>
 * <a href="/diagnostics-immobiliers/plomb" class="link">Le diagnostic plomb </a>

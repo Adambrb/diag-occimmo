@@ -3,7 +3,7 @@ title: "Diagnostics immobiliers"
 description: Diagnostics immobiliers obligatoires lors de la vente ou de la location d'un logement.
 image: /img/diag-jumbotron.jpg
 values:
-  - heading: "DPE et Eco-chèque"
+  - heading: "Diagnostic Performance Energétique (DPE)"
     text: >
       Le diagnostic de performance énergétique (DPE), obligatoire depuis juillet 2007, permet d’évaluer la consommation énergétique et de mesurer les émissions de gaz à effet de serre en fonction de sa performance thermique  d’un bien ou d’un bâtiment tertiaire. Il concerne le chauffage, la climatisation et la production d’eau chaude sanitaire, dans le but de promouvoir l’économie d’énergie.
     imageUrl: "/img/diag-dpe.jpg"
