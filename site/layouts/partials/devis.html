@@ -1,0 +1,339 @@
+<!-- Contact -->
+<div class="flex flex-wrap mb4 shadow-contact bg-white">
+  <div class="pa3 pt4-l w-70-l">
+    <h1 class="f3 b lh-title tc mb3">Votre devis</h1>
+
+    <form name="contact" data-netlify-recaptcha="true" data-netlify="true">
+      <div id="cordonnees" class="mv4">
+        <h3>Vos coordonnées</h3>
+        <!-- Civilité -->
+        <fieldset class="mv2">
+          Civilité :
+          <div class="indent">
+            <input type="radio" name="civilite" id="monsieur" />
+            <label for="monsieur">Mr.</label>
+            <input type="radio" name="civilite" id="madame" />
+            <label for="madame">Mme.</label>
+            <input type="radio" name="civilite" id="societe" />
+            <label for="societe">Société</label>
+          </div>
+        </fieldset>
+        <!-- Nom -->
+        <fieldset class="mv2">
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Nom (ou Société)*"
+            class="w-100 mb2"
+            required
+          />
+          <label for="name">Nom (ou Société)*</label>
+        </fieldset>
+        <!-- Prénom -->
+        <fieldset class="mv2">
+          <input
+            type="text"
+            id="prenom"
+            name="prenom"
+            placeholder="Prénom"
+            class="w-100 mb2"
+          />
+          <label for="prenom">Prénom</label>
+        </fieldset>
+
+        <!-- Email -->
+        <fieldset class="mv2">
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Email*"
+            class="w-100 mb2"
+            required
+          />
+          <label for="email">Email*</label>
+        </fieldset>
+        <!-- Téléphone -->
+        <fieldset class="mv2">
+          <input
+            type="tel"
+            id="tel"
+            name="tel"
+            placeholder="Téléphone"
+            class="w-100 mb2"
+          />
+          <label for="tel">Téléphone</label>
+        </fieldset>
+      </div>
+
+      <div id="renseignement" class="mv4">
+        <h3>Renseignements concernant le bien</h3>
+        <fieldset class="mv2">
+          <select name="type" id="type" class="w-100 mb2" required>
+            <option value="" disabled selected>Type de bien*</option>
+            <option value="Appartement">Appartement</option>
+            <option value="Maison">Maison</option>
+            <option value="Immeuble">Immeuble</option>
+            <option value="Commerce">Commerce</option>
+            <option value="Bureau">Bureau</option>
+            <option value="Atelier">Atelier</option>
+            <option value="Autre">Autre</option>
+          </select>
+          <label for="type">Type de bien*</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <input
+            type="text"
+            name="autre"
+            id="autre"
+            placeholder="Si autre, préciser (parking, bureau, local commercial, ...)"
+            class="w-100 mb2"
+          />
+          <label for="autre"
+            >Si autre, préciser (parking, bureau, local commercial, ...)</label
+          >
+        </fieldset>
+        <fieldset class="mv2">
+          Bien en copropriété :
+          <div class="indent">
+            <input type="radio" name="Copropriété" value="oui" id="oui" />
+            <label for="oui">Oui</label>
+            <input type="radio" name="Copropriété" value="non" id="non" />
+            <label for="non">Non</label>
+          </div>
+        </fieldset>
+        <fieldset class="mv2">
+          <select
+            name="date de construction"
+            id="date"
+            class="w-100 mb2"
+            required
+          >
+            <option value="" disabled selected>Date de construction*</option>
+            <option value="entre 1949 et 1997">Entre 1949 et 1997</option>
+            <option value="entre 1998 et 2010">Entre 1998 et 2010</option>
+            <option value="Après 2010">Après 2010</option>
+          </select>
+          <label for="date">Date de construction*</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <input
+            type="number"
+            min="0"
+            name="Surface"
+            id="surface"
+            placeholder="Surface habitable en m²*"
+            class="w-100 mb2"
+            required
+          />
+          <label for="surface">Surface habitable en m²*</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <select name="Nombre de pièces" id="piece" class="w-100 mb2" required>
+            <option value="" disabled selected>Nombre de pièces*</option>
+            <option value="Studio">Studio</option>
+            <option value="T1">T1</option>
+            <option value="T2">T2</option>
+            <option value="T3">T3</option>
+            <option value="T4">T4</option>
+            <option value="T5">T5</option>
+            <option value="T6">T6</option>
+            <option value="T7">T7</option>
+            <option value="Plus de t7">Plus de t7</option>
+          </select>
+          <label for="piece">Nombre de pièces*</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <input
+            type="text"
+            name="Adresse"
+            id="adresse"
+            placeholder="Adresse du bien"
+            class="w-100 mb2"
+          />
+          <label for="adresse">Adresse du bien</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <input
+            type="number"
+            min="0"
+            name="Code postal"
+            id="code"
+            placeholder="Code postal*"
+            class="w-100 mb2"
+            required
+          />
+          <label for="code">Code Postal*</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <input
+            type="text"
+            name="Ville"
+            id="ville"
+            placeholder="Ville*"
+            class="w-100 mb2"
+            required
+          />
+          <label for="ville">Ville*</label>
+        </fieldset>
+      </div>
+
+      <div id="besoin" class="mv4">
+        <h3>Renseignements concernant votre besoin</h3>
+        <fieldset class="mv2">
+          <select
+            name="Cadre de la demande"
+            id="demande"
+            class="w-100 mb2"
+            required
+          >
+            <option value="" disabled selected>Cadre de la demande*</option>
+            <option value="Vente">Vente</option>
+            <option value="Location">Location</option>
+            <option value="Mise en copropriété">Mise en copropriété</option>
+            <option value="Travaux">Travaux</option>
+            <option value="Démolition">Démolition</option>
+            <option value="Autre">Autre</option>
+          </select>
+          <label for="demande">Cadre de la demande*</label>
+        </fieldset>
+        <fieldset class="mv2">
+          <input
+            type="text"
+            name="autre"
+            class="w-100 mb2"
+            placeholder="Si autre préciser"
+            id="cadre"
+          />
+          <label for="cadre">Si autre préciser</label>
+        </fieldset>
+        <fieldset class="mv2">
+          Installation de gaz de plus de 15 ans :
+          <div class="indent">
+            <input
+              type="radio"
+              name="Installation de gaz de plus de 15 ans"
+              id="gazoui"
+            />
+            <label for="gazoui">Oui</label>
+            <input
+              type="radio"
+              name="Installation de gaz de plus de 15 ans"
+              id="gaznon"
+            />
+            <label for="gaznon">Non</label>
+          </div>
+        </fieldset>
+        <fieldset class="mv2">
+          Installation électrique de plus de 15 ans :
+          <div class="indent">
+            <input
+              type="radio"
+              name="Installation électrique de plus de 15 ans"
+              id="elecoui"
+            />
+            <label for="elecoui">Oui</label>
+            <input
+              type="radio"
+              name="Installation électrique de plus de 15 ans"
+              id="elecnon"
+            />
+            <label for="elecnon">Non</label>
+          </div>
+        </fieldset>
+        <fieldset class="mv2">
+          Sélectionner les diagnostics souhaités :
+          <div class="flex flex-column indent">
+            <div>
+              <input type="checkbox" name="termites" id="termites" />
+              <label for="termites">Termites</label>
+            </div>
+            <div>
+              <input type="checkbox" name="amiante" id="amiante" />
+              <label for="amiante">Amiante</label>
+            </div>
+            <div>
+              <input type="checkbox" name="DPE" id="DPE" />
+              <label for="DPE">DPE</label>
+            </div>
+            <div>
+              <input type="checkbox" name="Gaz" id="Gaz" />
+              <label for="Gaz">Gaz</label>
+            </div>
+            <div>
+              <input type="checkbox" name="electricite" id="electricite" />
+              <label for="electricite">Electricité</label>
+            </div>
+            <div>
+              <input type="checkbox" name="plomb" id="plomb" />
+              <label for="plomb">Plomb</label>
+            </div>
+            <div>
+              <input type="checkbox" name="carrez" id="carrez" />
+              <label for="carrez">Carrez</label>
+            </div>
+            <div>
+              <input
+                type="checkbox"
+                name="Etat Risques naturels, miniers et technologiques (ERNMT)"
+                id="ernmt"
+              />
+              <label for="ernmt"
+                >Etat Risques naturels, miniers et technologiques (ERNMT)</label
+              >
+            </div>
+            <div>
+              <input type="checkbox" name="autre" id="autrediag" />
+              <label for="autrediag">Autre</label>
+            </div>
+          </div>
+        </fieldset>
+
+        <!-- Message -->
+        <fieldset class="mv2">
+          <textarea
+            id="message"
+            name="message"
+            placeholder="Votre message"
+            rows="8"
+            cols="80"
+            class="w-100 mb2"
+          ></textarea>
+          <label for="message">Votre message</label>
+        </fieldset>
+      </div>
+
+      <div class="flex-l justify-between-l">
+        <div>
+          <a href="/politique-de-confidentialite" class="link f6 primary"
+            >Voir notre politique de confidentialité</a
+          >
+        </div>
+        <!-- recaptcha -->
+        <div class="mt2 mt3-l" data-netlify-recaptcha="true"></div>
+        <!-- Button -->
+        <div class="mt2 mt3-l c flex items-end">
+          <button type="submit" class="btn w-auto-ns raise">Envoyer</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="pa3 pt4-l bg-contact w-30-l">
+    <p>
+      Pour toute demande de renseignements ou suggestions sur notre site,
+      n’hésitez pas à nous contacter, nous vous répondrons dans les plus brefs
+      délais.
+    </p>
+    <h3 class="b">Contact</h3>
+    <ul>
+      <li>
+        <strong>Siège social :</strong> 19 Rue D’Espagne 31140 PECHBONNIEU
+      </li>
+      <li><strong>Antenne :</strong> 17 Rue Corneille 31100 Toulouse</li>
+      <li><strong>Tél :</strong> 06 36 36 86 41</li>
+      <li><strong>Mail :</strong> contact@diag-occimmo.fr</li>
+    </ul>
+  </div>
+</div>
