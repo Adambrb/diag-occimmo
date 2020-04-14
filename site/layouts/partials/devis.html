@@ -10,11 +10,11 @@
         <fieldset class="mv2">
           Civilité :
           <div class="indent">
-            <input type="radio" name="civilite" id="monsieur" />
+            <input type="radio" name="civilite" value="Mr" id="monsieur" />
             <label for="monsieur">Mr.</label>
-            <input type="radio" name="civilite" id="madame" />
+            <input type="radio" name="civilite" value="Madame" id="madame" />
             <label for="madame">Mme.</label>
-            <input type="radio" name="civilite" id="societe" />
+            <input type="radio" name="civilite" value="Société" id="societe" />
             <label for="societe">Société</label>
           </div>
         </fieldset>
@@ -85,12 +85,12 @@
         <fieldset class="mv2">
           <input
             type="text"
-            name="autre"
-            id="autre"
+            name="Autre type de bien"
+            id="autretype"
             placeholder="Si autre, préciser (parking, bureau, local commercial, ...)"
             class="w-100 mb2"
           />
-          <label for="autre"
+          <label for="autretype"
             >Si autre, préciser (parking, bureau, local commercial, ...)</label
           >
         </fieldset>
@@ -202,7 +202,7 @@
         <fieldset class="mv2">
           <input
             type="text"
-            name="autre"
+            name="Autre demande"
             class="w-100 mb2"
             placeholder="Si autre préciser"
             id="cadre"
@@ -215,12 +215,14 @@
             <input
               type="radio"
               name="Installation de gaz de plus de 15 ans"
+              value="Oui"
               id="gazoui"
             />
             <label for="gazoui">Oui</label>
             <input
               type="radio"
               name="Installation de gaz de plus de 15 ans"
+              value="Non"
               id="gaznon"
             />
             <label for="gaznon">Non</label>
@@ -232,11 +234,13 @@
             <input
               type="radio"
               name="Installation électrique de plus de 15 ans"
+              value="Oui"
               id="elecoui"
             />
             <label for="elecoui">Oui</label>
             <input
               type="radio"
+              value="Non"
               name="Installation électrique de plus de 15 ans"
               id="elecnon"
             />
@@ -289,7 +293,7 @@
               >
             </div>
             <div>
-              <input type="checkbox" name="autre" id="autrediag" />
+              <input type="checkbox" name="Autre diagnostics" id="autrediag" />
               <label for="autrediag">Autre</label>
             </div>
           </div>
